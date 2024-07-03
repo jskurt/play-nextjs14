@@ -2,6 +2,8 @@
 
 My personal playground for nextjs14 coding and learning.
 
+## Here are all the endpoints you can access
+https://nomad-movies.nomadcoders.workers.dev/
 
 ## How does Next.js render an application?
 ### Rendering
